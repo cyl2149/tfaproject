@@ -1,0 +1,7 @@
+This is the readme for my TFA project
+Group members: Cindy Lin (UID: cyl2149), Jinglin Li (UID: jl6067)
+This repository includes 3 files: 
+    1. Readme file
+    2. Parking.ipynb - which includes our analysis of the proportion of parking violations in the ZIP code 10025 
+       out of all 311 reports made in the 10025 ZIP code compared to the proportion across all ZIP codes in NYC in the year 2020.
+    3. Top10.ipynb - which includes our analysis of the top 10 causes of calls to 311 for the ZIP code 10025 in the year 2020.
